@@ -6,11 +6,5 @@ app = Flask(__name__)
 def home():
     return "CI is working!"
 
-
-
-
-
-
-
 if __name__ == "__main__":
     app.run()
